@@ -1,0 +1,4 @@
+﻿混合示例 Mixed sample.
+- 第一行中文：测试跨语言检索。
+- Second line in English: ensure bilingual content is handled.
+- 第三行中文：保持编码正确无损。

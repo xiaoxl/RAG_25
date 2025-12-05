@@ -1,0 +1,4 @@
+﻿RAG test sample in English.
+- This paragraph describes retrieval-augmented generation.
+- It mentions embeddings, vector search, and grounded answers.
+- Use this file to check English indexing and queries.

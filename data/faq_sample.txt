@@ -1,0 +1,5 @@
+﻿FAQs
+Q: What is RAG?
+A: Retrieval Augmented Generation combines search with generation.
+Q: 什么是召回？
+A: 从向量库中找到与问题最相关的文档片段。

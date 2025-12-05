@@ -1,0 +1,7 @@
+Artificial neural networks are computational models inspired by the structure of the human brain.
+They consist of layers of interconnected nodes, or neurons, which transform inputs through weighted connections.
+
+A neural network learns by adjusting these weights during the training process to minimize prediction error.
+Common types of neural networks include feedforward networks, convolutional networks for image tasks, and recurrent networks for sequential data.
+
+Modern deep learning systems often contain millions of parameters and require large datasets to train effectively.
